@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: my-python-app
-          image: public.ecr.aws/f3k7u9u5/my-python-app:latest
+          image: aws-docker-image-ECR
