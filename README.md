@@ -14,7 +14,7 @@ sudo mv /tmp/eksctl /usr/local/bin
 eksctl version
 <br>
 <br>
-#### eks cluster
+<b>eks cluster</b> 
 
 
  eksctl create cluster --name eksctl-test --nodegroup-name ng-defaulf --node-type t3.micro --nodes 2
