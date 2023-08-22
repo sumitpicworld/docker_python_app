@@ -9,14 +9,15 @@ eksctl installation
 curl --silent --location "https://github.com/weaveworks/eksctl/releases/latest/download/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp
 <br>
 sudo mv /tmp/eksctl /usr/local/bin
+
 <br>
 eksctl version
-
-
  <br>
-
+ <br>
  
  eks cluster
+
+ 
  <br>
  eksctl create cluster --name eksctl-test --nodegroup-name ng-defaulf --node-type t3.micro --nodes 2
  <br>
