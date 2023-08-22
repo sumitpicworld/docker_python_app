@@ -16,8 +16,7 @@ eksctl version
 <br>
 #### eks cluster
 
- 
- <br>
+
  eksctl create cluster --name eksctl-test --nodegroup-name ng-defaulf --node-type t3.micro --nodes 2
 
  <br>
