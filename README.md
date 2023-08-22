@@ -12,10 +12,9 @@ sudo mv /tmp/eksctl /usr/local/bin
 
 <br>
 eksctl version
- <br>
- <br>
- 
- eks cluster
+<br>
+<br>
+#### eks cluster
 
  
  <br>
